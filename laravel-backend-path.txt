@@ -1,4 +1,7 @@
 Path :
 - Laravel dasar
+  Mulai dengan video
+  Nonton sampai habis
+  real coding
 - Course laravel backend
 - Create real project
